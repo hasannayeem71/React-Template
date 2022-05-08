@@ -1,6 +1,32 @@
-# Getting Started with Create React App
+# Getting Started with This Custom Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Step to use this repo.
+
+`1.` You need to git clone your repo.
+
+```
+git clone github.com/yourname/reponame.git
+```
+
+`2.` cd into folder
+
+```
+cd yourFolderName
+```
+
+`3.` Install all the dependencys
+
+```
+yarn
+```
+
+If you use npm then
+
+```
+npm install
+```
+
+### Now you good to go
 
 ## Available Scripts
 

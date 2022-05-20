@@ -19,7 +19,7 @@ function Home() {
     <>
       <main>
         <h2>Welcome to the homepage!</h2>
-        <p>Run  
+        <p>Run
           <code style={{backgroundColor:"black",color:'white'}}>yarn generate YourComponentName</code> to create a new component.</p> 
       </main>
       <nav>
